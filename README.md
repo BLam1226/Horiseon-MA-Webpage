@@ -24,6 +24,11 @@ Go to the correct URL webpage and select the content you wish to view and use th
 
 Webpage: [https://blam1226.github.io/Horiseon-Webpage/]
 
+![Screenshot (18)](https://github.com/BLam1226/Horiseon-Webpage/assets/127125695/9033799d-de8d-43f4-bdd6-41fb8246239e)
+
+![Screenshot (19)](https://github.com/BLam1226/Horiseon-Webpage/assets/127125695/a187fb24-1022-4faa-b634-73b04bcd7785)
+
+
 ### Credits
 
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
