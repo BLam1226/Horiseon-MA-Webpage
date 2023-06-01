@@ -29,8 +29,8 @@ body {
     color: #d9dcd6;
 }
 
-/* Specificity for div in the class="header" */
-.header div {
+/* Changed specificity to nav in the class="header" */
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
